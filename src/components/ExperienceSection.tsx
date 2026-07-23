@@ -4,7 +4,7 @@ import { useI18n } from "@/lib/i18n";
 
 const experiencesEn = [
   {
-    title: "Operation Manager",
+    title: "Executive Chef",
     company: "Catering La Belle Table",
     location: "Riyadh, Saudi Arabia",
     period: "Sept 2023 – Present",
@@ -36,7 +36,7 @@ const experiencesEn = [
     ],
   },
   {
-    title: "Operation Manager",
+    title: "Executive Chef",
     company: "Al Karan Hotel",
     location: "Al Jubail, Saudi Arabia",
     period: "Jan 2015 – Aug 2021",
@@ -67,7 +67,7 @@ const experiencesEn = [
     ],
   },
   {
-    title: "Operational Manager – F&B Manager",
+    title: "Executive Chef – F&B Manager",
     company: "Al Hukair Group",
     location: "Saudi Arabia",
     period: "Jan 2006 – May 2012",
@@ -90,7 +90,7 @@ const experiencesEn = [
 
 const experiencesAr = [
   {
-    title: " مديـر تشغيل",
+    title: "شيف تنفيذي",
     company: "Catering La Belle Table",
     location: "الرياض، المملكة العربية السعودية",
     period: "سبتمبر 2023 – حتى الآن",
@@ -119,7 +119,7 @@ const experiencesAr = [
     ],
   },
   {
-    title: " مدير تشغيل",
+    title: "شيف تنفيذي",
     company: "Al Karan Hotel",
     location: "الجبيل، المملكة العربية السعودية",
     period: "يناير 2015 – أغسطس 2021",
@@ -144,7 +144,7 @@ const experiencesAr = [
     highlights: ["تصميم وصفات جديدة والتخطيط للقوائم", "مراجعة مستويات التوظيف لتحقيق الأهداف التشغيلية"],
   },
   {
-    title: "مدير عمليات – مدير أغذية ومشروبات",
+    title: "شيف تنفيذي – مدير أغذية ومشروبات",
     company: "Al Hukair Group",
     location: "المملكة العربية السعودية",
     period: "يناير 2006 – مايو 2012",
