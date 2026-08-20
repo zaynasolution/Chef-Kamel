@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import heroImage from "@/assets/hero-kitchen.jpg";
-import chefPhoto from "@/assets/Gemini_Generated_Image_nk5gxynk5gxynk5g.png";
 import { useI18n } from "@/lib/i18n";
 
 const HeroSection = () => {
@@ -84,7 +83,7 @@ const HeroSection = () => {
         >
           <div className="relative">
             <div className="w-48 h-48 md:w-72 md:h-72 rounded-full overflow-hidden border-2 border-primary/30 gold-glow">
-              <img src={chefPhoto} alt="Chef Kamel Mathlouthi" className="w-full h-full object-cover" />
+              <img src="/kamel-image.png" alt="Chef Kamel Mathlouthi" className="w-full h-full object-cover" />
             </div>
             <div className="absolute -bottom-3 -right-3 w-16 h-16 md:w-20 md:h-20 rounded-full bg-primary/10 border border-primary/20 backdrop-blur-md flex items-center justify-center">
               <span className="text-primary font-heading text-lg md:text-xl font-bold">25+</span>
